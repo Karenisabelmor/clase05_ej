@@ -1,2 +1,2 @@
-# clase05_ej
+# ClasePrueba
 Created with CodeSandbox
